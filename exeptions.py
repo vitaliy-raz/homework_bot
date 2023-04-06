@@ -4,7 +4,3 @@ class SendMessageError(Exception):
 
 class APIRequestError(Exception):
     pass
-
-
-class JsonExeption(Exception):
-    pass
